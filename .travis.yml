@@ -1,6 +1,7 @@
 node_js:
 - "stable"
 - "4"
+- "7"
 - "iojs"
 - "0.12"
 language: node_js
